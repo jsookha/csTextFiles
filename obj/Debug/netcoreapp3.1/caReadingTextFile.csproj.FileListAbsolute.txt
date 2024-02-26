@@ -1,0 +1,13 @@
+D:\Programming\Visual Studio Projects\caReadingTextFile\bin\Debug\netcoreapp3.1\caReadingTextFile.exe
+D:\Programming\Visual Studio Projects\caReadingTextFile\bin\Debug\netcoreapp3.1\caReadingTextFile.deps.json
+D:\Programming\Visual Studio Projects\caReadingTextFile\bin\Debug\netcoreapp3.1\caReadingTextFile.runtimeconfig.json
+D:\Programming\Visual Studio Projects\caReadingTextFile\bin\Debug\netcoreapp3.1\caReadingTextFile.runtimeconfig.dev.json
+D:\Programming\Visual Studio Projects\caReadingTextFile\bin\Debug\netcoreapp3.1\caReadingTextFile.dll
+D:\Programming\Visual Studio Projects\caReadingTextFile\bin\Debug\netcoreapp3.1\caReadingTextFile.pdb
+D:\Programming\Visual Studio Projects\caReadingTextFile\obj\Debug\netcoreapp3.1\caReadingTextFile.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio Projects\caReadingTextFile\obj\Debug\netcoreapp3.1\caReadingTextFile.AssemblyInfo.cs
+D:\Programming\Visual Studio Projects\caReadingTextFile\obj\Debug\netcoreapp3.1\caReadingTextFile.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projects\caReadingTextFile\obj\Debug\netcoreapp3.1\caReadingTextFile.dll
+D:\Programming\Visual Studio Projects\caReadingTextFile\obj\Debug\netcoreapp3.1\caReadingTextFile.pdb
+D:\Programming\Visual Studio Projects\caReadingTextFile\obj\Debug\netcoreapp3.1\caReadingTextFile.genruntimeconfig.cache
+D:\Programming\Visual Studio Projects\caReadingTextFile\obj\Debug\netcoreapp3.1\caReadingTextFile.csprojAssemblyReference.cache
